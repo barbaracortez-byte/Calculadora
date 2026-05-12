@@ -1,6 +1,10 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-s
-s
+
+"""
+Alterando o arquivo
+"""
+
 # Importações
 import datetime
 import random
